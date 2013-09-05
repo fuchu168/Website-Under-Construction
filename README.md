@@ -166,7 +166,7 @@ Website-Under-Construction
        </p>
 
        <p>Google Inc. is an American multinational corporation specializing in Internet-related services and products. These include search, cloud computing, software and online advertising technologies. Most of its profits are derived from AdWords.
-       	<h6> hahahahaha <a href="#">Photoshop tuturia</a></h6>
+       	<h6> Hola <a href="#">Photoshop Tutorial </a></h6>
        </p>
 
 	</ul>
