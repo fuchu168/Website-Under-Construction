@@ -118,7 +118,7 @@ Website-Under-Construction
      <h6>   December 7th,2010</h6>
      <img src="img/blogImage1.jpg" alt="blog post title">
 
-     <p>  hola bebe <a href="#">Continue reading</a> <p>
+     <p> More <a href="#">Continue reading</a> <p>
 	</h2>
 
 	 </alticle>
@@ -138,7 +138,7 @@ Website-Under-Construction
      <h6>   December 7th,2010</h6>
      <img src="img/blogImage2.jpg" alt="blog post title">
 
-     <p>  hola bebe <a href="#">Continue reading</a> <p>
+     <p>  hola <a href="#">Continue reading</a> <p>
 	</h2>
 
     </alticle>
@@ -156,8 +156,7 @@ Website-Under-Construction
          <!--top end-->
 	<ul id="comment">
        <li> 
-       	hola bebe
-
+      
        </li>
        
        <p>
@@ -166,7 +165,7 @@ Website-Under-Construction
        </p>
 
        <p>Google Inc. is an American multinational corporation specializing in Internet-related services and products. These include search, cloud computing, software and online advertising technologies. Most of its profits are derived from AdWords.
-       	<h6> Hola <a href="#">Photoshop Tutorial </a></h6>
+       	<h6> Photoshop <a href="#">Photoshop Tutorial </a></h6>
        </p>
 
 	</ul>
@@ -210,7 +209,7 @@ Website-Under-Construction
 
       <li> <a href="#">alchives</a></li>
 
-      <li> <a href="#"></a>alchives</li>
+      <li> <a href="#"></a>alchives<a/></li>
 
      </ul>
 
